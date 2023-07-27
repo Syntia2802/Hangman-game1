@@ -1,6 +1,13 @@
+# it is a hangman game 
+
 import sys
+
+#liczba prób
 number_of_tries = 5
+
+#hasło do odgadnięcia 
 word ="python"
+
 used_letters =[]
 
 user_word= []
